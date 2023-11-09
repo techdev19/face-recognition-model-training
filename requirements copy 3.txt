@@ -1,0 +1,15 @@
+# requirements.txt
+keras == 2.10
+keras-applications == 1.0.8
+keras-preprocessing == 1.1.1
+keras-vggface == 0.6 
+matplotlib >= 3.6
+mtcnn == 0.1.0 
+numpy == 1.20.3
+opencv-python == 4.4.0.44
+pillow >= 7.2.0
+# pip >= 20.2.2
+tensorflow == 2.10.0
+scipy == 1.4.1
+protobuf==3.9.2
+pandas==2.0.3
